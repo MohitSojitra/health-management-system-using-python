@@ -1,9 +1,4 @@
-# excersise , diet 
 
-
-# excersise :- seated solder plus, cable crossover ,pushup
-
-# lock or retrive function
 def getdate():
     import datetime
     return datetime.datetime.now()
